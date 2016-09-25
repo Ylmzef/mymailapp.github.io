@@ -1,0 +1,190 @@
+[
+    {
+        "name": "MyMail AmazonSES Integration",
+        "description": "Use Amazon's Simple Email Service (SES) to deliver your campaigns.",
+        "image": "//mymailapp.github.io/addons/amazonses_2x.png",
+        "wpslug": "mymail-amazon-ses-integration/amazonses.php",
+        "is_free": true,
+        "author": "revaxarts",
+        "author_url": "https://revaxarts.com"
+    },
+    {
+        "name": "MyMail Mandrill Integration",
+        "description": "Use Mandrill to deliver your campaigns",
+        "image": "//mymailapp.github.io/addons/mandrill_2x.png",
+        "wpslug": "mymail-mandrill-integration/mandrill.php",
+        "is_free": true,
+        "author": "revaxarts",
+        "author_url": "https://revaxarts.com"
+    },
+    {
+        "name": "MyMail SendGrid Integration",
+        "description": "Use SendGrid to deliver your campaigns.",
+        "image": "//mymailapp.github.io/addons/sendgrid_2x.png",
+        "wpslug": "mymail-sendgrid-integration/sendgrid.php",
+        "is_free": true,
+        "author": "revaxarts",
+        "author_url": "https://revaxarts.com"
+    },
+    {
+        "name": "MyMail Cool Captcha for Forms",
+        "description": "Add a Captcha to your MyMail subscription forms",
+        "image": "//mymailapp.github.io/addons/coolcaptcha_2x.png",
+        "wpslug": "mymail-cool-captcha/captcha.php",
+        "is_free": true,
+        "author": "revaxarts",
+        "author_url": "https://revaxarts.com"
+    },
+    {
+        "name": "MyMail reCaptcha™ for Forms",
+        "description": "Add a Captcha to your MyMail subscription forms",
+        "image": "//mymailapp.github.io/addons/recaptcha_2x.png",
+        "wpslug": "mymail-recaptcha/recaptcha.php",
+        "is_free": true,
+        "author": "revaxarts",
+        "author_url": "https://revaxarts.com"
+    },
+    {
+        "name": "Gravity Forms MyMail Add-On",
+        "description": "Integrates MyMail Newsletter Plugin with Gravity Forms to subscribe users with a Gravity Form.",
+        "image": "//mymailapp.github.io/addons/gravityforms_2x.png",
+        "wpslug": "gravity-forms-mymail-add-on/mymail.php",
+        "is_free": true,
+        "author": "revaxarts",
+        "author_url": "https://revaxarts.com"
+    },
+    {
+        "name": "Contact Form 7 for MyMail",
+        "description": "Create your Signup Forms with Contact Form 7 and allow users to signup to your newsletter",
+        "image": "//mymailapp.github.io/addons/cf7_2x.png",
+        "wpslug": "mymail-contact-form-7/plugin.php",
+        "is_free": true,
+        "author": "revaxarts",
+        "author_url": "https://revaxarts.com"
+    },
+    {
+        "name": "Simple Email Verify for MyMail",
+        "description": "Verifies your subscribers email addresses",
+        "image": "//mymailapp.github.io/addons/sev_2x.png",
+        "wpslug": "mymail-simple-email-verify/email-verify.php",
+        "is_free": true,
+        "author": "revaxarts",
+        "author_url": "https://revaxarts.com"
+    },
+    {
+        "name": "MyMail Kickbox.io Integration",
+        "description": "Verifies your subscribers email addresses with kickbox.io",
+        "image": "//mymailapp.github.io/addons/kickbox-io_2x.png",
+        "wpslug": "mymail-kickbox-io/kickbox-io.php",
+        "is_free": true,
+        "author": "revaxarts",
+        "author_url": "https://revaxarts.com"
+    },
+    {
+        "name": "Live! for MyMail",
+        "description": "see who opens your newsletter campaigns in real time!",
+        "image": "//mymailapp.github.io/addons/live_2x.png",
+        "link": "http://rxa.li/live?utm_source=MyMail+Add+Ons+Page",
+        "author": "revaxarts",
+        "author_url": "http://codecanyon.net/user/revaxarts?utm_source=MyMail+Add-on+Page"
+    },
+    {
+        "name": "ConvertPlug",
+        "description": "ConvertPlug is your all-in-one plugin for lead generation and opt-ins. With ConvertPlug, you can display your subscription forms in Popups, Info Bars, Slide Ins, After Posts & Sidebars.",
+        "image": "//i.imgur.com/pdR7YvP.png",
+        "link": "https://www.convertplug.com",
+        "author": "Brainstorm Force",
+        "author_url": "https://www.brainstormforce.com"
+    },
+    {
+        "name": "Layered Popups for WordPress",
+        "description": "Create completely unique popups, attract user attention and get more subscribers.",
+        "image": "//layeredpopups.com/images/layered-popups-and-mymail.png",
+        "link": "http://codecanyon.net/item/layered-popups-for-wordpress/5978263",
+        "author": "halfdata",
+        "author_url": "http://codecanyon.net/user/halfdata"
+    },
+    {
+        "name": "Opt-In Panda",
+        "description": "Get more email subscribers the most organic and easy way without tiresome popups.",
+        "image": "https://cconp.s3.amazonaws.com/optinpanda/mymail-inline.png",
+        "link": "http://api.byonepress.com/public/1.0/get/?product=optinpanda&utm_source=mymail&utm_medium=addon&utm_campaign=addon",
+        "author": "OnePress",
+        "author_url": "http://bizpanda.com"
+    },
+    {
+        "name": "MyMail integration with Arforms",
+        "description": "Create completely unique popups, attract user attention and get more subscribers.",
+        "image": "http://reputeinfosystems.net/arforms/mymail/mymailicon.png",
+        "link": "http://codecanyon.net/item/mymail-integration-with-arforms/9844977",
+        "author": "reputeinfosystems",
+        "author_url": "http://codecanyon.net/user/reputeinfosystems"
+    },
+    {
+        "name": "Opt-In Content Locker",
+        "description": "Hide certain content on your pages and make it available for subscribers only",
+        "image": "//halfdata.com/images/optin-locker-and-mymail.png",
+        "link": "http://codecanyon.net/item/optin-content-locker-for-wordpress/2809912",
+        "author": "halfdata",
+        "author_url": "http://codecanyon.net/user/halfdata"
+    },
+    {
+        "name": "Opt-In Panel",
+        "description": "Add floating opt-in panel to your website, attract user attention and get more subscribers.",
+        "image": "//halfdata.com/images/optin-panel-and-mymail.png",
+        "link": "http://codecanyon.net/item/optin-panel/7239476",
+        "author": "halfdata",
+        "author_url": "http://codecanyon.net/user/halfdata"
+    },
+    {
+        "name": "Subscribe & Download",
+        "description": "Create completely unique popups, attract user attention and get more subscribers.",
+        "image": "//halfdata.com/images/subscribe-download-and-mymail.png",
+        "link": "http://codecanyon.net/item/subscribe-download/2687305",
+        "author": "halfdata",
+        "author_url": "http://codecanyon.net/user/halfdata"
+    },
+    {
+        "name": "Google Analytics for MyMail",
+        "description": "Integrates Google Analytics with MyMail Newsletter Plugin to track your clicks with the popular Analytics service",
+        "image": "//mymailapp.github.io/addons/googleanalytics_2x.png",
+        "wpslug": "google-analytics-for-mymail/mymail_ga.php",
+        "is_free": true,
+        "author": "revaxarts",
+        "author_url": "https://revaxarts.com"
+    },
+    {
+        "name": "Piwik Analytics for MyMail",
+        "description": "Integrates Piwik Analytics with MyMail Newsletter Plugin to track your clicks",
+        "image": "//mymailapp.github.io/addons/piwik_2x.png",
+        "wpslug": "piwik-analytics-for-mymail/mymail_piwik.php",
+        "is_free": true,
+        "author": "revaxarts",
+        "author_url": "https://revaxarts.com"
+    },
+    {
+        "name": "MyMail Dummy Mailer",
+        "description": "A Dummy Mailer for MyMail 2. Simulate the send progress and statistics",
+        "image": "//mymailapp.github.io/addons/dummymailer_2x.png",
+        "wpslug": "mymail-dummy-mailer/dummymailer.php",
+        "is_free": true,
+        "author": "revaxarts",
+        "author_url": "https://revaxarts.com"
+    },
+    {
+        "name": "MyMail Multi SMTP",
+        "description": "Allows to use multiple SMTP connection for the MyMail Newsletter Plugin",
+        "image_": "//mymailapp.github.io/addons/amazonses_2x.png",
+        "wpslug": "mymail-multi-smtp/multismtp.php",
+        "is_free": true,
+        "author": "revaxarts",
+        "author_url": "https://revaxarts.com"
+    },
+    {
+        "name": "Addon2",
+        "hidden": true,
+        "description": "lorem",
+        "image": "http://s.w.org/images/core/3.9/editor.jpg",
+        "link": "plugin-install.php?tab=search&s=mymail-amazon-ses-integration"
+    }
+]

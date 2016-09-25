@@ -1,0 +1,98 @@
+{
+    "linus": {
+        "name": "Linus",
+        "image": "//mymailapp.github.io/templates/linus.jpg",
+        "description": "Linus is a full width newsletter template. With 29 modules you get everything you need for you next campaigns. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/linus?&utm_campaign=shorturl",
+        "endpoint": "http://update.revaxarts.com/"
+    },
+    "skyline": {
+        "name": "Skyline",
+        "image": "//mymailapp.github.io/templates/skyline.jpg",
+        "description": "Skyline Newsletter template fits best for your serious businesses. It comes 27 different modules to work with. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/skyline?&utm_campaign=shorturl",
+        "endpoint": "http://update.revaxarts.com/"
+    },
+    "business": {
+        "name": "Business",
+        "image": "//mymailapp.github.io/templates/business.jpg",
+        "description": "Business if for your business! Minimal flying elements with a clean look helps strengthen your brand. It comes 33 different modules to work with. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/business?&utm_campaign=shorturl",
+        "endpoint": "http://update.revaxarts.com/"
+    },
+    "looseleaf": {
+        "name": "Loose Leaf",
+        "image": "//mymailapp.github.io/templates/looseleaf.jpg",
+        "description": "If you're looking for something different Loose Leaf is the way to go. It comes 27 different modules to work with. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/looseleaf?&utm_campaign=shorturl",
+        "endpoint": "http://update.revaxarts.com/"
+    },
+    "metro": {
+        "name": "Metro",
+        "image": "//mymailapp.github.io/templates/metro.jpg",
+        "description": "The Metro Newsletter matches the new modern UI Windows 8 style which becomes quite famous lately. With 33 modules you get everything you need for you next campaigns. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/metro?&utm_campaign=shorturl",
+        "endpoint": "http://update.revaxarts.com/"
+    },
+    "letterpress": {
+        "name": "Letterpress",
+        "image": "//mymailapp.github.io/templates/letterpress.jpg",
+        "description": "Your email look like a stacked paper with the Letterpress newsletter. It comes 25 different modules to work with. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/letterpress?&utm_campaign=shorturl",
+        "endpoint": "http://update.revaxarts.com/"
+    },
+    "market": {
+        "name": "Market",
+        "image": "//mymailapp.github.io/templates/market.jpg",
+        "description": "Market Newsletter is a minimalistic looking template with huge flexibility. It comes 28 different modules to work with. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/market?utm_campaign=shorturl",
+        "endpoint": "http://update.revaxarts.com/"
+    },
+    "koble": {
+        "name": "Koble",
+        "image": "//i.imgur.com/59uMpDe.jpg",
+        "description": "Business Template Set",
+        "uri": "http://themeforest.net/item/koble-business-email-set/7902937?ref=nutzumi",
+        "endpoint": "http://www.doublepixels.com/mymail-template-activation/",
+        "envato_item_id": 7902937
+    },
+    "moka": {
+        "name": "Moka - Responsive Email and Newsletter Template",
+        "image": "//i.imgur.com/TUtSRvg.jpg",
+        "description": "Moka is multipurpose mail and newsletter template for all kinds of business. Modern design and highest standards of quality. 25 different modules, countless possibilities.",
+        "uri": "http://themeforest.net/item/moka-responsive-email-and-newsletter-template/14421594?ref=MaestoMail",
+        "endpoint": "http://maesto.pl/mymail-template-activation/",
+        "envato_item_id": 14421594
+    },
+    "jaqen": {
+        "name": "Jaqen",
+        "image": "//i.imgur.com/avf6pfk.jpg",
+        "description": "Flat design email template. with a big heading area placing your brand and logo.This good for brand recognition.",
+        "uri": "http://themeforest.net/item/jaqen-business-email-set/12971186?ref=nutzumi",
+        "endpoint": "http://www.doublepixels.com/mymail-template-activation/",
+        "envato_item_id": 12971186
+    },
+    "matah": {
+        "name": "Matah",
+        "image": "//i.imgur.com/DP1EJKR.jpg",
+        "description": "7 in 1 Multi-purpose email template.",
+        "uri": "http://themeforest.net/item/matah-responsive-email-set/10569882?ref=nutzumi",
+        "endpoint": "http://www.doublepixels.com/mymail-template-activation/",
+        "envato_item_id": 10569882
+    },
+    "vince": {
+        "name": "Vince",
+        "image": "//i.imgur.com/DOkPTOr.jpg",
+        "description": "Flat design email template. with a big heading area placing your brand and logo.This good for brand recognition.",
+        "uri": "http://themeforest.net/item/vince-responsive-email-template/5488963?ref=nutzumi",
+        "endpoint": "http://www.doublepixels.com/mymail-template-activation/",
+        "envato_item_id": 5488963
+    },
+    "mymail2": {
+        "name": "MyMail²",
+        "image": "//mymailapp.github.io/templates/mymail2.jpg",
+        "description": "This is Newsletter Template you can downloaded for free for the MyMail Newsletter plugin.",
+        "endpoint": "http://update.revaxarts.com/",
+        "is_free": true
+    }
+}

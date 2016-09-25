@@ -1,0 +1,65 @@
+{
+    "linus": {
+        "name": "Linus",
+        "image": "//mymailapp.github.io/templates/linus.jpg",
+        "description": "Linus is a full width newsletter template. With 29 modules you get everything you need for you next campaigns. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/linus?&utm_campaign=shorturl&utm_source=MyMail+Templates+Page",
+        "endpoint": "http://update.revaxarts.com"
+    },
+    "skyline": {
+        "name": "Skyline",
+        "image": "//mymailapp.github.io/templates/skyline.jpg",
+        "description": "Skyline Newsletter template fits best for your serious businesses. It comes 27 different modules to work with. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/skyline?&utm_campaign=shorturl&utm_source=MyMail+Templates+Page",
+        "endpoint": "http://update.revaxarts.com"
+    },
+    "business": {
+        "name": "Business",
+        "image": "//mymailapp.github.io/templates/business.jpg",
+        "description": "Business if for your business! Minimal flying elements with a clean look helps strengthen your brand. It comes 33 different modules to work with. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/business?&utm_campaign=shorturl&utm_source=MyMail+Templates+Page",
+        "endpoint": "http://update.revaxarts.com"
+    },
+    "looseleaf": {
+        "name": "Loose Leaf",
+        "image": "//mymailapp.github.io/templates/looseleaf.jpg",
+        "description": "If you're looking for something different Loose Leaf is the way to go. It comes 27 different modules to work with. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/looseleaf?&utm_campaign=shorturl&utm_source=MyMail+Templates+Page",
+        "endpoint": "http://update.revaxarts.com"
+    },
+    "metro": {
+        "name": "Metro",
+        "image": "//mymailapp.github.io/templates/metro.jpg",
+        "description": "The Metro Newsletter matches the new modern UI Windows 8 style which becomes quite famous lately. With 33 modules you get everything you need for you next campaigns. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/metro?&utm_campaign=shorturl&utm_source=MyMail+Templates+Page",
+        "endpoint": "http://update.revaxarts.com"
+    },
+    "letterpress": {
+        "name": "Letterpress",
+        "image": "//mymailapp.github.io/templates/letterpress.jpg",
+        "description": "Your email look like a stacked paper with the Letterpress newsletter. It comes 25 different modules to work with. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/letterpress?&utm_campaign=shorturl&utm_source=MyMail+Templates+Page",
+        "endpoint": "http://update.revaxarts.com"
+    },
+    "market": {
+        "name": "Market",
+        "image": "//mymailapp.github.io/templates/market.jpg",
+        "description": "Market Newsletter is a minimalistic looking template with huge flexibility. It comes 28 different modules to work with. The package includes layered PSD files for Photoshop and PNG files for Fireworks.",
+        "uri": "http://rxa.li/market?utm_campaign=shorturl&utm_source=MyMail+Templates+Page",
+        "endpoint": "http://update.revaxarts.com"
+    },
+    "mymail": {
+        "name": "MyMail",
+        "image": "//mymailapp.github.io/templates/mymail.jpg",
+        "description": "This is the base Newsletter Template which is included in the MyMail Wordpress Plugin. To get more check out the other templates.",
+        "endpoint": "http://data.newsletter-plugin.com/mymailtemplate",
+        "is_free": true
+    },
+    "mymail2": {
+        "name": "MyMail²",
+        "image": "//mymailapp.github.io/templates/mymail2.jpg",
+        "description": "This is Newsletter Template you can downloaded for free for the MyMail Newsletter plugin.",
+        "endpoint": "http://update.revaxarts.com",
+        "is_free": true
+    }
+}
