@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MyMail\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-25 16:25+0200\n"
+"POT-Creation-Date: 2016-10-13 11:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,203 +16,203 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: live.php:237 live.php:237
+#: live.php:238 live.php:238
 #, possible-php-format
 msgid "%s hours ago"
 msgstr ""
 
-#: live.php:236 live.php:236
+#: live.php:237 live.php:237
 #, possible-php-format
 msgid "%s min ago"
 msgstr ""
 
-#: live.php:235 live.php:235
+#: live.php:236 live.php:236
 #, possible-php-format
 msgid "%s sec ago"
 msgstr ""
 
-#: live.php:705 live.php:705
+#: live.php:706 live.php:706
 msgid "An error occurred while updating MyMail Live!"
 msgstr ""
 
-#: live.php:692 live.php:692
+#: live.php:693 live.php:693
 #, possible-php-format
 msgid "Buy an additional license for %s."
 msgstr ""
 
-#: live.php:460 live.php:460
+#: live.php:461 live.php:461
 msgid "Buy new License"
 msgstr ""
 
-#: live.php:691 live.php:691
+#: live.php:692 live.php:692
 msgid "Code in use!"
 msgstr ""
 
-#: live.php:278 live.php:278
+#: live.php:279 live.php:279
 msgid "Collapse"
 msgstr ""
 
-#: live.php:277 live.php:277
+#: live.php:278 live.php:278
 msgid "Collapse Sidebar"
 msgstr ""
 
-#: live.php:657 live.php:657
+#: live.php:658 live.php:658
 msgid "Downloading the latest version of MyMail Live!"
 msgstr ""
 
-#: live.php:459 live.php:459
+#: live.php:460 live.php:460
 msgid "Enter your MyMail Live! purchasecode to enable automatic updates"
 msgstr ""
 
-#: live.php:682 live.php:682
+#: live.php:683 live.php:683
 #, possible-php-format
 msgid "Enter your purchase code on the %s."
 msgstr ""
 
-#: live.php:701 live.php:701
+#: live.php:702 live.php:702
 msgid "Envato servers are currently down. Please try again later!"
 msgstr ""
 
-#: live.php:421 live.php:421
+#: live.php:422 live.php:422
 msgid "Google Maps API Key"
 msgstr ""
 
-#: live.php:417 live.php:417
+#: live.php:418 live.php:418
 msgid "Live"
 msgstr ""
 
-#: live.php:457 live.php:457
+#: live.php:458 live.php:458
 msgid "Live! Purchasecode"
 msgstr ""
 
-#: live.php:425 live.php:425
+#: live.php:426 live.php:426
 msgid "Map default settings"
 msgstr ""
 
-#: live.php:435 live.php:435
+#: live.php:436 live.php:436
 msgid "Meta Box height"
 msgstr ""
 
-#: live.php:673 live.php:673
+#: live.php:674 live.php:674
 msgid "Not able to download MyMail Live!"
 msgstr ""
 
-#: live.php:439 live.php:439
+#: live.php:440 live.php:440
 msgid "Pause on blur"
 msgstr ""
 
-#: live.php:683 live.php:683
+#: live.php:684 live.php:684
 msgid "Settings page"
 msgstr ""
 
-#: live.php:682 live.php:682
+#: live.php:683 live.php:683
 #, possible-php-format
 msgid ""
 "To get automatic updates for MyMail Live! you need to enter your purchase "
 "code on the %s."
 msgstr ""
 
-#: live.php:418 live.php:418
+#: live.php:419 live.php:419
 #, possible-php-format
 msgid "Use the latest %s minutes for the Live! feature"
 msgstr ""
 
-#: live.php:145 live.php:145
+#: live.php:146 live.php:146
 #, possible-php-format
 msgid "You have been logged out. Click %s to sign in again!"
 msgstr ""
 
-#: live.php:636 live.php:636
+#: live.php:637 live.php:637
 #, possible-php-format
 msgid "You have to enable the %s to use MyMail Live!"
 msgstr ""
 
-#: live.php:691 live.php:691
+#: live.php:692 live.php:692
 msgid "Your purchase code is already in use and can only be used for one site"
 msgstr ""
 
-#: live.php:296 live.php:296
+#: live.php:297 live.php:297
 msgid "back"
 msgstr ""
 
-#: live.php:240 live.php:240
+#: live.php:241 live.php:241
 msgid "clicked a link"
 msgstr ""
 
-#: live.php:288 live.php:288
+#: live.php:289 live.php:289
 msgid "clicks"
 msgstr ""
 
-#: live.php:425 live.php:425
+#: live.php:426 live.php:426
 msgid ""
 "define the default section and type of the map by dragging and zooming to "
 "the desired region"
 msgstr ""
 
-#: live.php:422 live.php:422
+#: live.php:423 live.php:423
 #, possible-php-format
 msgid "get your %s"
 msgstr ""
 
-#: live.php:145 live.php:145
+#: live.php:146 live.php:146
 msgid "here"
 msgstr ""
 
-#: live.php:285 live.php:285
+#: live.php:286 live.php:286
 msgid "no action!"
 msgstr ""
 
-#: live.php:239 live.php:239
+#: live.php:240 live.php:240
 msgid "opened the newsletter"
 msgstr ""
 
-#: live.php:287 live.php:287
+#: live.php:288 live.php:288
 msgid "opens"
 msgstr ""
 
-#: live.php:290 live.php:290
+#: live.php:291 live.php:291
 msgid "others"
 msgstr ""
 
-#: live.php:440 live.php:440
+#: live.php:441 live.php:441
 msgid "pause Live! modus if browser window doesn't have focus"
 msgstr ""
 
-#: live.php:274 live.php:274
+#: live.php:275 live.php:275
 msgid "paused"
 msgstr ""
 
-#: live.php:436 live.php:436
+#: live.php:437 live.php:437
 msgid "pixels"
 msgstr ""
 
-#: live.php:440 live.php:440
+#: live.php:441 live.php:441
 msgid "recommended"
 msgstr ""
 
-#: live.php:275 live.php:275
+#: live.php:276 live.php:276
 msgid "toggle fullscreen"
 msgstr ""
 
-#: live.php:241 live.php:241
+#: live.php:242 live.php:242
 msgctxt "the verb"
 msgid "unsubscribed"
 msgstr ""
 
-#: live.php:289 live.php:289
+#: live.php:290 live.php:290
 msgctxt "the noun"
 msgid "unsubscribes"
 msgstr ""
 
-#: live.php:128 live.php:128
+#: live.php:129 live.php:129
 #, possible-php-format
 msgid "view %s"
 msgstr ""
 
-#: live.php:297 live.php:297
+#: live.php:298 live.php:298
 msgid "visit profile"
 msgstr ""
 
-#: live.php:692 live.php:692
+#: live.php:693 live.php:693
 msgid "your new site"
 msgstr ""
