@@ -120,6 +120,14 @@
         "endpoint": "http://maesto.pl/mymail-template-activation/",
         "envato_item_id": 16197038
     },
+    "rigo": {
+        "name": "Rigo",
+        "image": "//i.imgur.com/XvYsuB0.jpg",
+        "description": "High quality, modern email and newsletter template for concerts and all kind of events.",
+        "uri": "https://themeforest.net/item/rigo-responsive-email-newsletter-template/17430502?ref=revaxarts",
+        "endpoint": "http://maesto.pl/mymail-template-activation/",
+        "envato_item_id": 17430502
+    },
     "mymail": {
         "name": "MyMail",
         "image": "//mymailapp.github.io/templates/mymail.jpg",
